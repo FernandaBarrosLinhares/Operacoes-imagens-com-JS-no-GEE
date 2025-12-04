@@ -10,9 +10,7 @@ Aqui são explorados conceitos fundamentais de manipulação de imagens raster, 
 ## 🚀 Executar este projeto no Google Earth Engine
 
 👉 **Clique para abrir o script no GEE Code Editor:**
-🔗 **[https://code.earthengine.google.com/SEU-LINK-AQUI](https://code.earthengine.google.com/SEU-LINK-AQUI)**
-
-*(Quando enviar seu link real, eu atualizo esta seção.)*
+🔗 **[https://code.earthengine.google.com/7e35ad6f3297ea08f87521ee6982868f]**
 
 ---
 
@@ -86,19 +84,19 @@ Basta colocar os arquivos em uma pasta `/imagens` no repositório e substituir o
 
 ### **Visualização do SRTM**
 
-![SRTM](./imagens/srtm.png)
+![SRTM](./assets/srtm.png)
 
 ### **Declividade (Slope)**
 
-![Declividade](./imagens/declividade.png)
+![Declividade](./assets/declividade.png)
 
 ### **Seno do Aspecto**
 
-![Seno do aspecto](./imagens/seno-aspecto.png)
+![Seno do aspecto](./assets/seno-aspecto.png)
 
 ### **Polígono usado para estatística**
 
-![Polígono](./imagens/poligono.png)
+![Polígono](./assets/poligono.png)
 
 ---
 
